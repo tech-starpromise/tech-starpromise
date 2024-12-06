@@ -1,6 +1,6 @@
 # StarPromise.星许🌟
 
-> 本站为备份站点，主站在[`这里哦`](https://blog.star-promise.top)
+> 更多内容在➡️[`这里哦`](https://blog.star-promise.top)
 
 - 👋 Hi, I’m @tech-starpromise
 - 👀 I’m interested in ...
@@ -15,9 +15,8 @@ tech-starpromise/tech-starpromise is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
 ---
+
 
 ## EP01. Hello 2024
 
@@ -35,11 +34,8 @@ Oi! 实在没想到原来这样就能有自己的个人博客了。特别感谢 
 
 晚安！
 
-
-
-
-
 ---
+
 
 ## EP02. Markdown语法总结
 
@@ -51,8 +47,6 @@ Oi! 实在没想到原来这样就能有自己的个人博客了。特别感谢 
 
 Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的语法代替排版，而不像一般我们用的字处理软件 Word 或 Pages 有大量的排版、字体设置。它使我们专心于码字，用「标记」语法，来代替常见的排版格式。例如此文从内容到格式，甚至插图，键盘就可以通通搞定了。目前来看，支持 Markdown 语法的编辑器有很多，包括很多网站（例如 BLOG ）也支持了 Markdown 的文字录入。Markdown 从写作到完成，导出格式随心所欲，你可以导出 HTML 格式的文件用来网站发布，也可以十分方便的导出 PDF 格式。
 
-
-
 ### Markdown 的优点
 
 * 页面内容可读性强，简洁直观。
@@ -63,29 +57,21 @@ Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的�
 
 * 不需太过于关心页面排版，只需关注内容。
 
-  
-
 ### Markdown 官方文档
 
 * [创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax)
 
 * [Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)
 
-
-
 ### 常用的Markdown工具
 
 ![MacDown logo](/img/in-post/241202/LogoMacdown.webp)
-
-
 
 #### MacOS平台(个人推荐使用Macdown)
 
 在 Mac OS X 上，个人强烈建议使用 **[Macdown](https://github.com/MacDownApp/macdown)** 这款免费且十分好用的 Markdown 编辑器，它支持**实时预览**，即，左边是你编辑 Markdown 语言，右边会实时的生成预览效果。
 
 ![Macdown](/img/in-post/241202/MacdownSoftwareInterface.webp)
-
-
 
 #### Windows平台
 
@@ -94,8 +80,6 @@ Windows用户建议尝试以下两款产品：
 * **MarkdownPad** 
 
 * **MarkPad**
-
-  
 
 ### Markdown 语法的简要介绍
 
@@ -111,31 +95,32 @@ Windows用户建议尝试以下两款产品：
    这是第一个段落
    这是第二个段落
    ````
-
    *效果展示：*
-
+   
    这是第一个段落
-这是第二个段落
+   这是第二个段落
    
    *上面的写法在Macdown编辑器中显示是两行，但是在预览效果发现，他们还是在同一行，只是两个段落中间多出来一个空格，这时我们在两行中间多敲一个回车键就能达到换行的效果。*
 
 2. **敲两个回车键**
 
    *代码展示：*
-
+	
    ````
    这是第一个段落
    
    这是第二个段落
    ````
-
+   
    *效果展示：*
 
    这是第一个段落
 
+   
+   
    这是第二个段落
-
-*有同学发现，我本来只是想让同一句话换个行显示而已，你这中间还多出来一空行，不够美观。能不能中间没有留白的空行，但是也能实现换行的效果尼？当然办法总是有的，下面就介绍第二种换行方式。*
+   
+   *有同学发现，我本来只是想让同一句话换个行显示而已，你这中间还多出来一空行，不够美观。能不能中间没有留白的空行，但是也能实现换行的效果尼？当然办法总是有的，下面就介绍第二种换行方式。*
 
 > 官方解释：*To force a line break, put two spaces and a newline (return) at the end of the line.*
 
@@ -153,8 +138,6 @@ Windows用户建议尝试以下两款产品：
    这是第一个段落  
    这是第二个段落
 
-
-
 #### 强调
 
 在Markdown语法中，想要着重强调某一部分内容时，可以使用`*`或者是`_`来包裹要着重强调的内容。`**`或`__`表示字体加粗，`*`或`_`表示字体斜体，（个人推荐使用`*`）
@@ -166,13 +149,13 @@ Windows用户建议尝试以下两款产品：
    *代码展示：*
 
    ````
-   **StarPromise.星许**
+   **StarPromise.星许**  
    __StarPromise.星许__
    ````
 
    *效果展示：*
 
-   **StarPromise.星许**
+   **StarPromise.星许**  
    __StarPromise.星许__
 
 2. 斜体（**也可以使用快捷键生成斜体符号：Command+i**）
@@ -180,16 +163,14 @@ Windows用户建议尝试以下两款产品：
    *代码展示：*
 
    ````
-   *StarPromise.星许*
+   *StarPromise.星许*  
    _StarPromise.星许_
    ````
-
+   
    *效果展示：*
 
-   *StarPromise.星许*
+   *StarPromise.星许*  
    _StarPromise.星许_
-
-
 
 #### 标题
 
@@ -222,8 +203,6 @@ Header 1
 Header 2
 ---------
 ````
-
-
 
 #### URL链接
 
@@ -269,8 +248,6 @@ Header 2
   [arbitrary_id]: https://blog.star-promise.top
   [a_link][arbitrary_id]    [b_link][arbitrary_id]    [c_link][arbitrary_id]
 
-
-
 #### 引用图片
 
 Markdown中引用图片资源同样也是分为内联(Inline)和外部引用(Reference)
@@ -305,8 +282,6 @@ Markdown中引用图片资源同样也是分为内联(Inline)和外部引用(Ref
   ![2][image-id]
   ![3][image-id]
 
-  
-
 #### 列表
 
 Markdown语法中，列表分为三类：**有序列表、无序列表、嵌套列表**
@@ -340,8 +315,6 @@ Markdown语法中，列表分为三类：**有序列表、无序列表、嵌套�
     2. 列表2
     3. 列表3
   ````
-
-
 
 #### 引用
 
@@ -423,8 +396,6 @@ Markdown语法中，使用`>`表示引用，引用名人名言或者是别人的
 
 > [一级引用](https://star-promise.top)
 
-
-
 #### 内嵌文本 InlineCode
 
 - 当我们想让某一文本内容内嵌在边框内，我们可以使用一对反引号包裹内容
@@ -455,8 +426,6 @@ Markdown语法中，使用`>`表示引用，引用名人名言或者是别人的
 
    ```` ``Code with `backticks` `` ````
 
-
-
 #### 代码块 CodeBlock
 
 三个反引号或者三个波浪号。
@@ -479,8 +448,6 @@ Markdown语法中，使用`>`表示引用，引用名人名言或者是别人的
 
   *注意切换到英文输入法哦*~
 
-
-
 #### 分割线
 
 当我们想对文章的某些内容做上下分割，这时我们可以使用分割线语法，有两种表达方法：
@@ -502,8 +469,6 @@ or
 or
 
 ---
-
-
 
 #### 表格
 
@@ -549,8 +514,6 @@ or
    
    *这里需要注意：表格的左边和右边的`|`可以省略不需要使用，表格左右两边加上`|`主要基于美观考虑，表格的对齐方式仅仅取决于`:`*
 
-
-
 #### 锚点
 
 在写文章时，有时候我们有这样的需求，从文章的某一个位置直接跳转到指定的另一个位置，这时使用到a标签的锚点语法。
@@ -570,8 +533,6 @@ or
 ````
 
 *例如：本文中我添加到了[`认识 Markdown`](#markdown-anchor)处*
-
-
 
 #### del标签
 
@@ -595,8 +556,6 @@ or
 
 ~~xxx~~
 
-
-
 #### u标签
 
 作用是在内容底部添加一条**横线**
@@ -610,8 +569,6 @@ or
 *效果展示：*
 
 <u>xxx</u>
-
-
 
 #### mark标签
 
@@ -627,8 +584,6 @@ or
 
 <mark>xxx</mark>
 
-
-
 #### font标签
 
 作用是设置文本的**字体颜色**
@@ -643,8 +598,6 @@ or
 
 <font color=Red>xxx</font>
 
-
-
 ### 总结
 
 **以上内容是作者花了N小时总结出来的常用Markdown语法，介绍了Markdown的十几种常用的语法知识，并逐一的进行了效果展示。可以说足以满足读者们日常中各种使用Markdown编写文章的需求。老铁们要是感觉文章对您有帮助，请多多鼓励哦～**
@@ -653,11 +606,8 @@ or
 
 **强烈建议读者们认真浏览作者的这篇文章后，自己使用Markdown写一篇文章，体会一下Markdown语法的优雅之处！**
 
-
-
-
-
 ---
+
 
 ## EP03. 我的微信公众号开通咯
 
