@@ -245,7 +245,7 @@ Header 2
 
   *效果展示：*
 
- [arbitrary_id]: https://blog.star-promise.top
+  [arbitrary_id]: https://blog.star-promise.top
   [a_link][arbitrary_id]    [b_link][arbitrary_id]    [c_link][arbitrary_id]
 
 #### 引用图片
