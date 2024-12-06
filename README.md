@@ -65,13 +65,13 @@ Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的�
 
 ### 常用的Markdown工具
 
-![MacDown logo](/img/in-post/241202/LogoMacdown.webp)
+![MacDown logo](https://blog.star-promise.top/img/in-post/241202/LogoMacdown.webp)
 
 #### MacOS平台(个人推荐使用Macdown)
 
 在 Mac OS X 上，个人强烈建议使用 **[Macdown](https://github.com/MacDownApp/macdown)** 这款免费且十分好用的 Markdown 编辑器，它支持**实时预览**，即，左边是你编辑 Markdown 语言，右边会实时的生成预览效果。
 
-![Macdown](/img/in-post/241202/MacdownSoftwareInterface.webp)
+![Macdown](https://blog.star-promise.top/img/in-post/241202/MacdownSoftwareInterface.webp)
 
 #### Windows平台
 
@@ -268,7 +268,7 @@ Markdown中引用图片资源同样也是分为内联(Inline)和外部引用(Ref
 
   *效果展示：*
 
-  ![Alt Image Text](/img/in-post/241202/Example.webp)
+  ![Alt Image Text](https://blog.star-promise.top/img/in-post/241202/Example.webp)
 
 * Reference  (同上，好处也是不用重复拷贝一个链接)
 
@@ -619,4 +619,4 @@ or
 
 > “Yeah It's online. ”
 
-![My WeChat](/img/in-post/241203/WeChat.png)
+![My WeChat](https://blog.star-promise.top/img/in-post/241203/WeChat.png)
