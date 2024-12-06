@@ -1,50 +1,29 @@
-# docsify 文档模板
+# ○ 附件表搭建演示
 
-```md
-|-- docsify-template
-    |-- .gitignore
-    |-- README.md // 做为主页内容渲染
-    |-- docs
-        |-- .nojekyll // 用于阻止 GitHub Pages 会忽略掉下划线开头的文件
-        |-- index.html // 入口文件
-        |-- quick-start.md
-        |-- README.md
-        |-- _coverpage.md // 封面
-        |-- _navbar.md // 导航栏
-        |-- _sidebar.md // 侧边栏
-        |-- images
-        |   |-- process.png
-        |-- media
-            |-- favicon.ico
-            |-- _favicon.ico
-```
+> 莫老师的附件表（按快捷键 Ctrl+F 搜索内容，善用搜索啊喂！！）💕
 
-## 快速开始
+✓ 什么？你还不知道这玩意儿是和每期视频保持同步更新的？
 
-安装 docsify-cli 工具，可以方便创建及本地预览文档网站。
+✓ 什么？你还不知道可以方便的在这里查阅并下载每期视频的附件？
 
-```bash
-npm i docsify-cli -g
-```
+✓ **莫老师的主页：**
 
-## 初始化项目
-如果想在项目的 ./docs 目录里写文档，直接通过 init 初始化项目。
+🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-```bash
-docsify init ./docs
+##### ○ <font color="#DB7093">莫老师开通粉丝群啦，但又被封啦！诶就是玩儿（[👉请戳这里👈](https://ooo.0x0.ooo/2024/05/04/OplMkB.jpg)）</font>
 
-# or
-git clone https://github.com/Mrlhz/docsify-template
-cd docsify-template
-docsify serve docs
-```
+![粉丝群](https://ooo.0x0.ooo/2024/09/06/Ot351X.png)
 
-## 本地预览网站
 
-本地实时预览，默认访问 http://localhost:3000 。
 
-```bash
-docsify serve docs
-# or 端口号默认3000
-docsify serve docs -p 3000
-```
+***<font color="#00CAE1">● 提示：如有失效附件，请务必通过私信反馈给我！！！</font>***
+
+***<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>***
+
+更新1：大家好我是练习时长两年半的运维练习生
+
+更新2：喜欢唱跳RAP篮球
+
+更新3：MUSIC~
+
+更新4：Gee Gee Gee Gee baby baby baby baby
