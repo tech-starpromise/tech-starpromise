@@ -231,7 +231,7 @@ Header 2
   *代码展示：*
 
   ````
-   [StarPromise.星许](https://blog.star-promise.top)
+  [StarPromise.星许](https://blog.star-promise.top)
   ````
 
 * Reference (外部引用的好处可以在整个文章中重复引用网页地址或者图片地址**不需要重复拷贝同一个url**)
@@ -240,13 +240,17 @@ Header 2
 
   ````
   [arbitrary_id]: https://blog.star-promise.top
-  [a_link][arbitrary_id]    [b_link][arbitrary_id]    [c_link][arbitrary_id]
+  [a_link][arbitrary_id]
+  [b_link][arbitrary_id]
+  [c_link][arbitrary_id]
   ````
 
   *效果展示：*
 
   [arbitrary_id]: https://blog.star-promise.top
-  [a_link][arbitrary_id]    [b_link][arbitrary_id]    [c_link][arbitrary_id]
+  [a_link][arbitrary_id]
+  [b_link][arbitrary_id]
+  [c_link][arbitrary_id]
 
 #### 引用图片
 
