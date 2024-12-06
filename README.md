@@ -239,18 +239,20 @@ Header 2
   *代码展示：*
 
   ````
-  [arbitrary_id]: https://blog.star-promise.top
-  [a_link][arbitrary_id]
-  [b_link][arbitrary_id]
+  [arbitrary_id]: https://blog.star-promise.top  
+  [a_link][arbitrary_id]  
+  [b_link][arbitrary_id]  
   [c_link][arbitrary_id]
   ````
 
-  *效果展示：*
+  *效果展示：*  
 
   [arbitrary_id]: https://blog.star-promise.top
-  [a_link][arbitrary_id]
-  [b_link][arbitrary_id]
+  [a_link][arbitrary_id]  
+  [b_link][arbitrary_id]  
   [c_link][arbitrary_id]
+  
+  
 
 #### 引用图片
 
